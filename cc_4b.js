@@ -1,5 +1,5 @@
 // Define a Array of Products
-
+ 
 let  products = [
     {sku: "A-001" , name: "Milk" , category: "groceries" , price: 5 , inventory: 267},
     {sku: "B-002" , name: "Jacket" , category: "apparel" , price: 22 , inventory: 178},
